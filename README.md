@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm David 👋
 
 I'm a software engineer helping SaaS teams and content creators ship faster — through clean web development, practical AI integrations, and custom plugins/tools built for creator workflows.
 
