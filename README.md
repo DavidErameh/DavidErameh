@@ -49,6 +49,4 @@ Custom plugins and internal tools that save creators hours — automation for ed
 ## Let's Work Together
 
 I take on freelance projects in web development, AI feature builds, and creator tooling.
-📩 **Email:** [your@email.com]
-🌐 **Portfolio site:** [link]
-💼 **Availability:** [e.g. "Open for new projects starting [month]"]
+📩 **Email:** eramehdave@gmail.com
