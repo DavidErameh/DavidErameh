@@ -18,26 +18,26 @@ I help SaaS products fully develop backend integrating and deveoloping APIs and 
 Custom plugins and internal tools that save creators hours — automation for editing pipelines, publishing workflows, analytics, and platform integrations.
 
 ---
-
+ 
 ## Featured Work
-
-### [Project Name] — AI Integration
-> One-sentence result: e.g. "Added an AI-powered search feature that cut support tickets by 30%."
-**Stack:** [e.g. Next.js, OpenAI API, PostgreSQL]
-🔗 [Live demo] · [Repo](#)
-
-### [Project Name] — Web App
-> One-sentence result: e.g. "Built a client dashboard that replaced 3 spreadsheets and a Slack bot."
-**Stack:** [e.g. React, Node, Stripe]
-🔗 [Live demo] · [Repo](#)
-
-### [Project Name] — Creator Plugin
-> One-sentence result: e.g. "Built a plugin that auto-generates YouTube chapter timestamps from a transcript."
-**Stack:** [e.g. Python, FFmpeg, Whisper API]
-🔗 [Live demo] · [Repo](#)
-
-*(Swap in your 3 strongest, most different projects — one per bucket above ideally.)*
-
+ 
+### 🤖 Mandle — AI Content Engine for X
+> AI-powered pipeline that automates content creation for X — ingesting source material, generating on-brand drafts, scoring them for quality, and scheduling posts, plus a reply engine for strategic engagement.
+**Stack:** FastAPI, Convex, Groq (Llama), Next.js, Tailwind CSS
+🔗 [Repo](https://github.com/DavidErameh/mandle)
+ 
+### 🌐 DesignProfile — Design System Extractor
+> Full-stack SaaS app that turns any website or image into a complete, exportable design system — colors, typography, spacing, and ready-to-use CSS — powered by Gemini for visual analysis.
+**Stack:** Next.js 15, React 19, Convex, Clerk, Gemini API, Playwright
+🔗 [Repo](https://github.com/DavidErameh/designprofile)
+ 
+### 🎨 Auto Captions — AE/Premiere Plugin
+> Native After Effects & Premiere Pro plugin that transcribes, styles, and animates video captions in minutes — word-level timing, animation presets, and editable native layers, no manual work required.
+**Stack:** ExtendScript, FFmpeg, Groq Whisper API, Node.js
+🔗 [Repo](https://github.com/DavidErameh/ae-plugin) · *MVP, actively refining*
+ 
+*(Update repo links to live demos as they become available — clients weigh a working demo far more heavily than a repo link.)*
+ 
 ---
 
 ## Tech Stack
